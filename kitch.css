@@ -1,0 +1,35 @@
+body{
+	background-color: black;
+	padding-bottom: 400px;
+
+	}
+	#ft{
+	color: white;
+	font-family: Times New Roman;
+	border-color: white;
+	border: dotted;
+	font-size: 60px;
+	
+}
+#ssil
+{
+	font-family: Times New Roman;
+	font-size: 30px;
+	color: white;
+}
+#cat
+{
+	width: 300px;
+	height: 300px;
+	padding-left: 30px;
+}
+#head
+{
+	padding-right: -90px;
+	color: white;
+	font-size: 20px;
+}
+#aa
+{
+	font-size: 20px;
+}
